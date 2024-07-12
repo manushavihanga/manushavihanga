@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manusha Vihanga</h1>
+<h1 align="center">Hi 👋, I'm Vihanga Senevirathna</h1>
 <h3 align="center">A passionate Computer Science undergraduate from the University of Kelaniya in Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence.**
